@@ -1,4 +1,4 @@
-# Optimal-Path-Planning-AI61005-Assgn_1-q3
+# Optimal-Path-Planning | AI61005-Assignment
 
 Question Statement: Consider a city network where we need to route a set of electric vehicles which may require to be charged during its journey from some source to some destination. Let us assume that we have n cities (v1, v2, . . . , vn) and the distance between cities vi and vj be eij (if two cities are not connected directly then eij = ∞ and eij = eji). Assume that each city has a single charging station which can charge one EV at a time. Consider a set of k EVs namely P1, P2, . . . , Pk. For each EV the following information is provided - 
 (a) Sr - source node 
